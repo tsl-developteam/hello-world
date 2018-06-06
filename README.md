@@ -1,2 +1,7 @@
 # hello-world
-My first repository)
+
+Hi Humans!
+
+Volodymyr here, I like Android!
+
+# цебулокруто
